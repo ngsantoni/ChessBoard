@@ -1,0 +1,6 @@
+T  P C           uid                    x y
+0 0 0 bytearray(b'\x04LJD\x10\x02\x89') 0 0
+1 0 0 bytearray(b'\x04gBD\x10\x02\x89') 1 1
+2 0 0 bytearray(b'\x08./\xec') 2 2
+3 0 0 bytearray(b'\x08Q\xce\xe8') 3 3
+4 0 0 bytearray(b'\x08\xe2\xf0\x1a') 4 4
